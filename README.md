@@ -1,7 +1,7 @@
 # Hi 👋, I'm Lyne
 
 ## Profile Metrics
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyne6666&label=Profile%20views&color=0e75b6&style=flat" alt="lyne6666" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyne6666&label=Profile%20views&color=0e75b6&style=flat" alt="lyne6666" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyne6666" alt="lyne6666" /></a> </p>
 
